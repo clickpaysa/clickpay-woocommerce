@@ -9,7 +9,7 @@
  * Plugin URI:    https://ClickPay.com.sa/
  * Description:   ClickPay is a <strong>3rd party payment gateway</strong>. Ideal payment solutions for your internet business.
 
- * Version:       4.11.1
+ * Version:       4.11.2
  * Requires PHP:  7.0
  * Author:        ClickPay
  * Author URI:    https://ClickPay.com.sa/
@@ -22,7 +22,7 @@ if (!function_exists('add_action')) {
 
 
 
-define('CLICKPAY_PAYPAGE_VERSION', '4.11.1');
+define('CLICKPAY_PAYPAGE_VERSION', '4.11.2');
 define('CLICKPAY_PAYPAGE_DIR', plugin_dir_path(__FILE__));
 define('CLICKPAY_PAYPAGE_ICONS_URL', plugins_url("icons/", __FILE__));
 define('CLICKPAY_PAYPAGE_IMAGES_URL', plugins_url("images/", __FILE__));
