@@ -44,6 +44,12 @@ Official WooCommerce plugin for ClickPay
    - **Server Key**: `Merchant’s Dashboard >> Developers >> Key management >> Server Key`
 6. Click `Save changes`
 
+## Refund from woocommerce Dashbroad
+
+<img width="1034" alt="Screenshot 2023-12-28 at 12 49 03 PM" src="https://github.com/clickpaysa/clickpay-woocommerce/assets/135695828/fea3114d-08d8-4089-816e-acf729d8fd35">
+<img width="1034" alt="Screenshot 2023-12-28 at 12 48 38 PM" src="https://github.com/clickpaysa/clickpay-woocommerce/assets/135695828/6455620c-7aba-4156-8d50-c121d39d457b">
+
+
 ## Use Auth - Capture - Void
 
 1. In the configuration page select transaction type: **Auth**.
