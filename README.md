@@ -46,10 +46,9 @@ Official WooCommerce plugin for ClickPay
 
 ## Refund from woocommerce Dashbroad
 
-<img width="800" alt="Screenshot 2023-12-28 at 12 48 38 PM" src="https://github.com/clickpaysa/clickpay-woocommerce/assets/135695828/6455620c-7aba-4156-8d50-c121d39d457b">
-<img width="800" alt="Screenshot 2023-12-28 at 12 49 03 PM" src="https://github.com/clickpaysa/clickpay-woocommerce/assets/135695828/fea3114d-08d8-4089-816e-acf729d8fd35">
+<img width="750" alt="Screenshot 2023-12-28 at 12 48 38 PM" src="https://github.com/clickpaysa/clickpay-woocommerce/assets/135695828/90ea9a56-b061-4f3e-8024-ac79580db680">
 
-
+<img width="750" alt="Screenshot 2023-12-28 at 12 49 03 PM" src="https://github.com/clickpaysa/clickpay-woocommerce/assets/135695828/85c6b624-a0ae-4d74-97ca-910dc9183691">
 
 ## Use Auth - Capture - Void
 
