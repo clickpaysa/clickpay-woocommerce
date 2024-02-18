@@ -24,6 +24,16 @@ class WC_Gateway_Clickpay extends WC_Payment_Gateway
     const PT_TRAN_TYPE = '_pt_transaction_type';
 
     //
+	private $_is_card_method;
+	private $_support_tokenise;
+	private $_support_auth_capture;
+	private $_support_iframe;
+
+	private $payment_form;
+	private $is_frammed_page;
+	private $is_managed_form;
+
+    //
 
     public function __construct()
     {
