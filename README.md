@@ -47,13 +47,24 @@
    - **Server Key**: `Merchant’s Dashboard >> Developers >> Key management >> Server Key`
 6. Click `Save changes`
 
-## Use Auth - Capture - Void
+## Configure the Plugin for Direct Apple Pay on your website
 
-1. In the configuration page select transaction type: **Auth**.
-2. The default order-status for **Auth** Orders is **on-hold** unless you change it from the configuration page.
-3. To **Capture** an **Auth** order you need to go to the order edit view >> change the order status to **Completed** then Save, the **Capture** will be done.
-4. To **Void** the **Auth** order, you need to go to the order edit view >> change the order status to **Cancelled** then Save, the **Void** will be done.
+1. Navigate to `"Magento admin panel" >> Stores >> Configuration`
+2. Open `"Sales >> Payment Methods`
+3. Select the Apple Pay method from the available list of ClickPay payment methods
+4. Please find the setup section below for the apple pay certificate creation
+5. Once certificates created upload the certificates in admin panel
+6. Add the Merchnat identifier name
 
+   <img width="809" alt="Screenshot 2024-02-28 at 11 02 44 AM" src="https://github.com/clickpaysa/clickpay-magento2.x/assets/135695828/75893cf4-5159-47c6-a5bf-7b7e3a200c62">
+
+8. Enter the primary credentials:
+   - **Profile ID**: Enter the Profile ID of your ClickPay account
+   - **Server Key**: `Merchant’s Dashboard >> Developers >> Key management >> Server Key`
+   - **Client Key**: `Merchant’s Dashboard >> Developers >> Key management >> Server Key`
+9. Click `Save Config`
+
+   
 ## Use iFrame
 
 ---
