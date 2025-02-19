@@ -1,6 +1,9 @@
-# Clickpay - WooCommerce
-
-Official WooCommerce plugin for Clickpay
+<h1 align="center">ClickPay - Woocommerce</h1>
+<p align="center"><i>The Official Woocommerce plugin for ClickPay</i></p>
+<div align="center">
+   <h2 align="center">Plugin features</h2>
+<h4>Direct Apple Pay</h4>
+</div>
 
 ---
 
